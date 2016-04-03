@@ -10,7 +10,7 @@ title: Gravity
 email: juanjose.carin@ischool.berkeley.edu
 description: test
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://juanjocarin.github.io/Gravity" # the base hostname & protocol for your site
 github_username:  juanjocarin
 
 # Build settings
