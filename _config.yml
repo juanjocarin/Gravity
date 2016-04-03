@@ -7,12 +7,11 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
-description: ramblings of a wanderer
+email: juanjose.carin@ischool.berkeley.edu
+description: test
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+github_username:  juanjocarin
 
 # Build settings
-markdown: kramdown
+markdown: markdown
